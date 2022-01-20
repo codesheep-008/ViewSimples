@@ -16,6 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".class05.clickevent.ClickEventActivity" />
+        <activity android:name=".class05.dispatch.DispatchActivity" />
+
+        <activity android:name=".class06.TextViewColorTestActivity" />
+        <activity android:name=".class01.FlowLayoutActivity"/>
     </application>
 
 </manifest>
